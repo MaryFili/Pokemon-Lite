@@ -1,0 +1,24 @@
+{
+  "name": "pokemon-lite",
+  "version": "1.0.0",
+  "description": "a basic cli game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaryFili/Pokemon-Lite.git"
+  },
+  "author": "Mary Filardi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaryFili/Pokemon-Lite/issues"
+  },
+  "homepage": "https://github.com/MaryFili/Pokemon-Lite#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "figlet": "^1.5.2",
+    "readline-sync": "^1.4.10"
+  }
+}
